@@ -1,0 +1,8 @@
+C:\Users\azurita\source\repos\GobiernoApiTransporteSharp\GobiernoApiTransporteSharp\bin\Debug\netstandard2.0\GobiernoApiTransporteSharp.deps.json
+C:\Users\azurita\source\repos\GobiernoApiTransporteSharp\GobiernoApiTransporteSharp\bin\Debug\netstandard2.0\GobiernoApiTransporteSharp.dll
+C:\Users\azurita\source\repos\GobiernoApiTransporteSharp\GobiernoApiTransporteSharp\bin\Debug\netstandard2.0\GobiernoApiTransporteSharp.pdb
+C:\Users\azurita\source\repos\GobiernoApiTransporteSharp\GobiernoApiTransporteSharp\obj\Debug\netstandard2.0\GobiernoApiTransporteSharp.AssemblyInfoInputs.cache
+C:\Users\azurita\source\repos\GobiernoApiTransporteSharp\GobiernoApiTransporteSharp\obj\Debug\netstandard2.0\GobiernoApiTransporteSharp.AssemblyInfo.cs
+C:\Users\azurita\source\repos\GobiernoApiTransporteSharp\GobiernoApiTransporteSharp\obj\Debug\netstandard2.0\GobiernoApiTransporteSharp.dll
+C:\Users\azurita\source\repos\GobiernoApiTransporteSharp\GobiernoApiTransporteSharp\obj\Debug\netstandard2.0\GobiernoApiTransporteSharp.pdb
+C:\Users\azurita\source\repos\GobiernoApiTransporteSharp\GobiernoApiTransporteSharp\obj\Debug\netstandard2.0\GobiernoApiTransporteSharp.csprojAssemblyReference.cache

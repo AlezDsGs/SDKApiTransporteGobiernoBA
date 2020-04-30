@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GobiernoApiTransporteSharp", "GobiernoApiTransporteSharp\GobiernoApiTransporteSharp.csproj", "{FF81FD4B-B6A5-4F74-AE7E-4E8905BC48B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{0F52F2D0-4C68-4ABC-9B6A-C64336E6E140}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF81FD4B-B6A5-4F74-AE7E-4E8905BC48B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF81FD4B-B6A5-4F74-AE7E-4E8905BC48B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF81FD4B-B6A5-4F74-AE7E-4E8905BC48B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF81FD4B-B6A5-4F74-AE7E-4E8905BC48B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F52F2D0-4C68-4ABC-9B6A-C64336E6E140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F52F2D0-4C68-4ABC-9B6A-C64336E6E140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F52F2D0-4C68-4ABC-9B6A-C64336E6E140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F52F2D0-4C68-4ABC-9B6A-C64336E6E140}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17180648-8B2D-4E2B-A5EA-BD6CC2D6CBF6}
+	EndGlobalSection
+EndGlobal
