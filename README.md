@@ -1,11 +1,11 @@
-# GobiernoApiSharp <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/50/c0/59/50c05982-802b-a02b-b13f-f7cc0b5214ac/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-85-220.png/320x0w.jpg" width="50">
+# GobiernoApiTransporteSharp <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/50/c0/59/50c05982-802b-a02b-b13f-f7cc0b5214ac/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-85-220.png/320x0w.jpg" width="30">
 
 
 
-Supports almost every features that Gobierno api has!
+Soporte para todas las features que tiene la API de transporte del Gobierno BA!
 
 -----
-GobiernoApiSharp's  - Update date: April 29, 2020 - 
+GobiernoApiTransporteSharp's  - Update date: April 29, 2020 - 
 
 | Target | Branch | Version | Download link |  
 | ------ | ------ | ------ | ------ |
@@ -35,12 +35,11 @@ Note: this library uses [Json.NET v10.0.3 and above](https://www.nuget.org/packa
  -->
 
 ## Features
-Some of features:
+ Features disponibles :
 
 |    |    |    |    |
 | ------ | ------ | ------ | ------ |
-
-| Get Estacionamientos cercanos   |
+| Estacionamientos | GetEstacionamientosCercanos  | obtener estacionamientos cercanos en un radio establecido |
 
 ## Usage
 #### Use builder to get Gobierno API instance:
@@ -51,7 +50,7 @@ var api = InstaApiBuilder.CreateBuilder()
                 .SetUser(new UserSessionData(...Your user...))
                 .Build();
 ```
-##### Note: every API method has synchronous implementation as well.
+##### Note: cada método tiene implementación síncrona.
 <!-- 
 
 ## Wiki
