@@ -5,6 +5,7 @@ using GobiernoApiTransporteSharp.Helpers;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
+using System.Linq.Expressions;
 using System.Net;
 using System.Net.Http;
 using System.Text;
@@ -46,7 +47,7 @@ namespace GobiernoApiTransporteSharp.API.Processors
 
                 var EstacionamientosResponse = JsonConvert.DeserializeObject<EstacionamientoCercaListResponse>(json);
 
-
+                Expression<Func<int, int, int>> asd = (a, b) => a * b;
 
 
                 //var converter = ConvertersFabric.Gobiernonce.GetCommentListConverter(commentListResponse);
@@ -65,6 +66,8 @@ namespace GobiernoApiTransporteSharp.API.Processors
                 //{
                 //    _logger?.LogException(exception);
                 //    return Result.Fail<GobiernoCommentList>(exception);
+
+
             }
         }
     }
