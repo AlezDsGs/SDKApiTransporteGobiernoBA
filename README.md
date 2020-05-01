@@ -8,9 +8,9 @@ Supports almost every features that Gobierno api has!
 GobiernoApiSharp's  - Update date: April 29, 2020 - 
 
 | Target | Branch | Version | Download link |  
-| ------ | ------ | ------ | ------ | ------ |
-| Nuget | master | v0.0.0.0 | - | - |
-| Release | master | v0.0.0.0 | - | |
+| ------ | ------ | ------ | ------ |
+| Nuget | master | v0.0.0.0 | - |
+| Release | master | v0.0.0.0 | - | 
 
 <!-- 
 ## Install
